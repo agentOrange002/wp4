@@ -1,10 +1,10 @@
 ---
 date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - Dec 2017'
-url: 'https://www.apple.com/music/'
+title: 'Business Systems Support'
+company: 'Hexagon Group of Companies'
+location: 'Bacolod City'
+range: 'January - Februaru 2017'
+url: 'https://#/'
 ---
 
 - Developed and shipped highly interactive web applications for Apple Music using Ember.js

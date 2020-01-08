@@ -1,10 +1,10 @@
 ---
 date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - Dec 2015'
-url: 'https://www.upstatement.com/'
+title: 'IT Staff'
+company: 'Munsterific Convenience Store'
+location: 'Bacolod City'
+range: 'Dec 2015 - April 2012'
+url: 'https://#/'
 ---
 
 - Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery

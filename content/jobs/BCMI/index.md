@@ -1,7 +1,7 @@
 ---
 date: '2018-05-14'
 title: 'IT Specialist'
-company: 'Bacolod Columbia Marketing Inc'
+company: 'Bacolod Columbia Marketing Inc.'
 location: 'Bacolod City'
 range: 'July 2018 - April 2019'
 url: 'https://#/'

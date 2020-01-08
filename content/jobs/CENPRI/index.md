@@ -1,10 +1,10 @@
 ---
 date: '2017-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'Jan - June 2017'
-url: 'https://web.northeastern.edu/scout/'
+title: 'IT Specialist'
+company: 'Central Negros Power Reliability Inc.'
+location: 'Bacolod City'
+range: 'March 2014  - June 2015'
+url: 'https://#/'
 ---
 
 - Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern

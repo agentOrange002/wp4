@@ -1,9 +1,9 @@
 ---
 date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - Dec 2016'
+title: 'IT Support'
+company: 'Teammicro Credit Corporation'
+location: 'Bacolod City'
+range: 'April 2012 - May 2014'
 url: 'https://www.apple.com/music/'
 ---
 
