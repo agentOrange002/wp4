@@ -1,6 +1,6 @@
 ---
 title: 'Hi, my name is'
-name: 'Nehemias C. Belong Jr.'
+name: 'Nehemias C. Belong Jr'
 subtitle: 'I enjoy build great apps'
 contactText: 'Get In Touch'
 ---

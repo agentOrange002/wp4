@@ -4,7 +4,7 @@ module.exports = {
     'Nehemias C. Belong Jr. is a java programmer based in La Carlota City, Negros Occidental who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
   siteKeywords:
     'Jimboy, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://unruffled-mcnulty-a68702.netlify.com/',
+  siteUrl: 'https://distracted-einstein-e83f94.netlify.com/',
   siteLanguage: 'en_PH',
   googleAnalyticsID: 'UA-155724667-1',
   googleVerification: '',
