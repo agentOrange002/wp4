@@ -1,12 +1,13 @@
 ---
-date: '2016-12-21'
+date: '2015-03-12'
 title: 'IT Support'
 company: 'Teammicro Credit Corporation'
 location: 'Bacolod City'
 range: 'April 2012 - May 2014'
-url: 'https://www.apple.com/music/'
+url: 'https://#/'
 ---
 
-- Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
-- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
+- Install new / rebuild existing servers and configure hardware, peripherals, services, settings, directories, storage, etc. in accordance with standards and project/operational requirements
+- Research and recommend innovation and suggest possible automated approaches for system administration tasks.  Identify approaches that leverage the company’s resource
+- In charge of all computer systems of all operating branches nationwide, including the maintenance of both its hardware and software. Plan, coordinate and implement security measures to safeguard information in computer files, LMS Loan Monitoring System, BR.NET Online Banking Systems and servers against accidental or unauthorized damage, modification or disclosure
+- Manage the web applications in these web hosting services: HostMonster and HostGator

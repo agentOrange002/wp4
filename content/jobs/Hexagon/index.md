@@ -1,13 +1,15 @@
 ---
-date: '2017-12-21'
+date: '2017-03-08'
 title: 'Business Systems Support'
 company: 'Hexagon Group of Companies'
 location: 'Bacolod City'
-range: 'January - Februaru 2017'
+range: 'January 2017 - February 2017'
 url: 'https://#/'
 ---
 
-- Developed and shipped highly interactive web applications for Apple Music using Ember.js
-- Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs
-- Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
-- Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps
+- Solves organizational information problems and requirements by analysing requirements: designing computer programs; recommending system controls and protocols
+- Determines operational objectives by studying business functions; gathering information; evaluating output requirements and formats
+- Designs new computer programs by analysing requirements; constructing workflow charts and diagrams; studying system capabilities; writing specifications
+- Improves systems by studying current practices; designing modifications
+- Maintains system protocols by writing and updating procedures
+- Prepares technical reports by collecting, analysing and summarizing information and trends
