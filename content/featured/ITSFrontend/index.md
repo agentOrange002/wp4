@@ -1,8 +1,9 @@
 ---
-date: '2020-05-6'
+date: '5'
 title: 'Issue Tracking System - FrontEnd'
+cover: './frontend.png'
 github: 'https://github.com/agentOrange002'
-external: '#'
+external: 'https://#/'
 tech:
   - ReactJS
   - Redux Thunk

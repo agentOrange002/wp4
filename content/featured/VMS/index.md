@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '1'
 title: 'Vendor Management System'
 cover: './vms.png'
 github: 'https://github.com/agentOrange002'
