@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-Front End - Issue Tracking System built with ReactJS, Redux-Thunk and Primereact UI. Please let me if you need to check my repositories. I can provide access keys for pulling.
+Front End - Issue Tracking System built with ReactJS, Redux-Thunk and Primereact UI. Please let me know if you need to check my repositories. I can provide access keys for pulling.
