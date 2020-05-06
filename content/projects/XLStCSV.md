@@ -10,4 +10,4 @@ company: 'Macro Distributor Inc.'
 showInProjects: true
 ---
 
-a converter tool, that's convert the xls file into segregated csv format that to be uploaded in the current payroll system.
+A converter tool, that's convert the xls file into segregated csv format that to be uploaded in the current payroll system.

@@ -11,4 +11,4 @@ company: 'Macro Distributor Inc.'
 showInProjects: true
 ---
 
-Designed and developed the JSOGen BCP Tool Application, a sales order management system which allow users to manage orders, invoicing, transactions and informations of the customer
+Designed and developed the JSOGen BCP Tool Application, a sales order management system which allow users to manage orders, invoicing, transactions and informations of the customers.

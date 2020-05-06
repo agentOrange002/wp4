@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-Designed and developed CITI Loan Management System a desktop application.
+Designed and developed CITI Loan Management System. A desktop application that allows users to manage loans and borrowers. Keep tracking payments and collections. It can provide some customized reports based on their needs.
