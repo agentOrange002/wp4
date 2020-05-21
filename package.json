@@ -1,11 +1,12 @@
 {
-  "name": "v4",
+  "homepage": "http://agentOrange002.github.io/wp4",
+  "name": "wp4",
   "description": "Web Portfolio",
   "version": "1.0.0",
   "author": "Nehemias C. Belong Jr. <nehemiasbelong@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/agentOrange002/v4"
+    "url": "https://github.com/agentOrange002/wp4"
   },
   "keywords": [
     "gatsby"
