@@ -1,5 +1,4 @@
-{
-  
+{  
   "name": "wp4",
   "description": "Web Portfolio",
   "version": "1.0.0",
@@ -12,8 +11,7 @@
     "gatsby"
   ],
   "license": "MIT",
-  "scripts": {
-   
+  "scripts": {   
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
