@@ -1,5 +1,5 @@
 {
-  "homepage": "http://agentOrange002.github.io/wp4",
+  
   "name": "wp4",
   "description": "Web Portfolio",
   "version": "1.0.0",
@@ -13,8 +13,7 @@
   ],
   "license": "MIT",
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
+   
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
