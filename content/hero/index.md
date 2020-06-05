@@ -5,4 +5,4 @@ subtitle: 'I enjoy build apps'
 contactText: 'Get In Touch'
 ---
 
-I'm a Freelance Software Developer based in La Carlota City, Negros Occidental specializing in building (and occasionally designing) exceptional, high-quality websites and applications.
+I'm a Freelance Software Developer based in La Carlota City, Negros Occidental specializing in building (and occasionally designing) exceptional, great applications.
