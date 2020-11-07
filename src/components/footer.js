@@ -133,18 +133,28 @@ const Footer = () => {
             <StyledGitHubInfo>
               <span>
                 <IconStar />
-                <span>{100}</span>
-                {/* <span>{githubInfo.stars.toLocaleString()}</span> */}
+                <span>{100}</span>              
               </span>
               <span>
                 <IconFork />
-                <span>{17}</span>
-                {/* <span>{githubInfo.forks.toLocaleString()}</span> */}
+                <span>{17}</span>               
               </span>
             </StyledGitHubInfo>
           
 
-          {githubInfo.stars && githubInfo.forks && (
+       
+        </StyledGitHubLink>
+      </StyledMetadata>
+    </StyledContainer>
+  );
+};
+
+Footer.propTypes = {
+  githubInfo: PropTypes.object,
+};
+
+export default Footer;
+   //{githubInfo.stars && githubInfo.forks && (
             // <StyledGitHubInfo>
             //   <span>
             //     <IconStar />
@@ -157,15 +167,4 @@ const Footer = () => {
             //     {/* <span>{githubInfo.forks.toLocaleString()}</span> */}
             //   </span>
             // </StyledGitHubInfo>
-          )} 
-        </StyledGitHubLink>
-      </StyledMetadata>
-    </StyledContainer>
-  );
-};
-
-Footer.propTypes = {
-  githubInfo: PropTypes.object,
-};
-
-export default Footer;
+          //)} 
