@@ -133,11 +133,11 @@ const Footer = () => {
             <StyledGitHubInfo>
               <span>
                 <IconStar />
-                <span>{100}</span>              
+                <span>{githubInfo.stars}</span>              
               </span>
               <span>
                 <IconFork />
-                <span>{17}</span>               
+                <span>{githubInfo.forks}</span>               
               </span>
             </StyledGitHubInfo>
           
