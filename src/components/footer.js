@@ -133,11 +133,13 @@ const Footer = () => {
             <StyledGitHubInfo>
               <span>
                 <IconStar />
-                <span>{githubInfo.stars.toLocaleString()}</span>
+                <span>{100}</span>
+                {/* <span>{githubInfo.stars.toLocaleString()}</span> */}
               </span>
               <span>
                 <IconFork />
-                <span>{githubInfo.forks.toLocaleString()}</span>
+                <span>{17}</span>
+                {/* <span>{githubInfo.forks.toLocaleString()}</span> */}
               </span>
             </StyledGitHubInfo>
           )}
