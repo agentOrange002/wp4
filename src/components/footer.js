@@ -128,7 +128,6 @@ const Footer = () => {
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>Designed &amp; Built by Nehemias Belong</div>
-
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>
               <span>
