@@ -127,7 +127,7 @@ const Footer = () => {
           href="https://github.com/agentOrange002/wp4"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>Designed &amp; Built by Nehemias Belong</div>
+          <div>Designed &amp; Built by agentOrange002</div>
 
          
             <StyledGitHubInfo>
