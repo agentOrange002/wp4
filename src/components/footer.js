@@ -129,7 +129,7 @@ const Footer = () => {
           rel="nofollow noopener noreferrer">
           <div>Designed &amp; Built by Nehemias Belong</div>
 
-          {githubInfo.stars && githubInfo.forks && (
+         
             <StyledGitHubInfo>
               <span>
                 <IconStar />
@@ -142,7 +142,22 @@ const Footer = () => {
                 {/* <span>{githubInfo.forks.toLocaleString()}</span> */}
               </span>
             </StyledGitHubInfo>
-          )}
+          
+
+          {githubInfo.stars && githubInfo.forks && (
+            // <StyledGitHubInfo>
+            //   <span>
+            //     <IconStar />
+            //     <span>{100}</span>
+            //     {/* <span>{githubInfo.stars.toLocaleString()}</span> */}
+            //   </span>
+            //   <span>
+            //     <IconFork />
+            //     <span>{17}</span>
+            //     {/* <span>{githubInfo.forks.toLocaleString()}</span> */}
+            //   </span>
+            // </StyledGitHubInfo>
+          )} 
         </StyledGitHubLink>
       </StyledMetadata>
     </StyledContainer>
