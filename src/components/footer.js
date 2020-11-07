@@ -128,15 +128,16 @@ const Footer = () => {
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>Designed &amp; Built by Nehemias Belong</div>
+
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>
               <span>
                 <IconStar />
-                <span>{githubInfo.stars}</span>
+                <span>{githubInfo.stars.toLocaleString()}</span>
               </span>
               <span>
                 <IconFork />
-                <span>{githubInfo.forks}</span>
+                <span>{githubInfo.forks.toLocaleString()}</span>
               </span>
             </StyledGitHubInfo>
           )}
