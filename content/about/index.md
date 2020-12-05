@@ -2,14 +2,18 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - Java
-  - Spring Boot
-  - MySQL
+  - Java & RxJava
+  - Spring Boot & Webflux
+  - PostgreSQL JDBC & R2DBC
+  - MySQL JDBC & R2DBC
   - Jasper Reports
   - JavaScript (ES6+)
   - HTML & (S)CSS
   - ReactJs
   - Redux
+  - Gradle
+  - Maven
+  - JPA & Hibernate
 ---
 
 Hello! I'm Jimboy, a Freelance Java Developer based in La Carlota City, Negros Occidental who enjoys building things that live on the internet. I develop exceptional web apps that provide intuitive, user interfaces, modules-process flows with efficient and modern backends.
