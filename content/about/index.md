@@ -4,8 +4,8 @@ avatar: './me.jpg'
 skills:
   - Java & RxJava
   - Spring Boot & Webflux
-  - PostgreSQL JDBC & R2DBC
-  - MySQL JDBC & R2DBC
+  - PostgreSQL 
+  - MySQL
   - Jasper Reports
   - JavaScript (ES6+)
   - HTML & (S)CSS
