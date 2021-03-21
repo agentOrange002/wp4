@@ -1,8 +1,8 @@
 ---
 date: '2021-01-09'
 title: 'Payout Team Management'
-github: ''
-external: ''
+github: 'https://github.com/agentOrange002/ptm'
+external: 'https://github.com/agentOrange002/ptm'
 tech:
   - Spring Boot
   - JPA
