@@ -13,4 +13,4 @@ tech:
 showInProjects: true
 ---
 
-Back End - Issue Tracking System (Spring Boot REST API) built with Java, Spring Boot, JPA, MySQL and JasperReports. Please let me know if you need to check my repositories. 
+Back End - Issue Tracking System (Spring Boot REST API) built with Java, Spring Boot, JPA, MySQL and JasperReports. 
