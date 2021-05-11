@@ -14,6 +14,7 @@ skills:
   - Gradle
   - Maven
   - JPA & Hibernate
+  - GraalVM
   - AWS EC2 RDS S3
 ---
 
