@@ -9,7 +9,6 @@ url: 'https://#/'
 
 - Solves organizational information problems and requirements by analysing requirements: designing computer programs; recommending system controls and protocols
 - Determines operational objectives by studying business functions; gathering information; evaluating output requirements and formats
-- Designs new computer programs by analysing requirements; constructing workflow charts and diagrams; studying system capabilities; writing specifications
 - Improves systems by studying current practices; designing modifications
 - Maintains system protocols by writing and updating procedures
 - Prepares technical reports by collecting, analysing and summarizing information and trends

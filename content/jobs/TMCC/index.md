@@ -7,7 +7,6 @@ range: 'April 2012 - May 2014'
 url: 'https://#/'
 ---
 
-- Install new / rebuild existing servers and configure hardware, peripherals, services, settings, directories, storage, etc. in accordance with standards and project/operational requirements
-- Research and recommend innovation and suggest possible automated approaches for system administration tasks.  Identify approaches that leverage the company’s resource
-- In charge of all computer systems of all operating branches nationwide, including the maintenance of both its hardware and software. Plan, coordinate and implement security measures to safeguard information in computer files, LMS Loan Monitoring System, BR.NET Online Banking Systems and servers against accidental or unauthorized damage, modification or disclosure
-- Manage the web applications in these web hosting services: HostMonster and HostGator
+- Install new / rebuild existing servers and configure hardware, peripherals, services, settings, directories, storage, etc. in accordance with standards and project/operational requirements.
+- In charge of all computer systems of all operating branches nationwide, including the maintenance of both its hardware and software. Plan, coordinate and implement security measures to safeguard information in computer files, LMS Loan Monitoring System, BR.NET Online Banking Systems and servers against accidental or unauthorized damage, modification or disclosure.
+- Manage the web applications in these web hosting services: HostMonster and HostGator.
