@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Nehemias C. Belong Jr. | Software Enginee',
+  siteTitle: 'Nehemias C. Belong Jr. | Software Engineer',
   siteDescription:
     'Nehemias C. Belong Jr. is a Software Engineer based in La Carlota City, Negros Occidental who specializes in developing (and occasionally designing) exceptional, great applications.',
   siteKeywords:
