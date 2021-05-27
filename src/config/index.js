@@ -1,7 +1,7 @@
 module.exports = {
-  siteTitle: 'Nehemias C. Belong Jr. | Java Developer',
+  siteTitle: 'Nehemias C. Belong Jr. | Software Enginee',
   siteDescription:
-    'Nehemias C. Belong Jr. is a Freelance Java Developer based in La Carlota City, Negros Occidental who specializes in developing (and occasionally designing) exceptional, great applications.',
+    'Nehemias C. Belong Jr. is a Software Engineer based in La Carlota City, Negros Occidental who specializes in developing (and occasionally designing) exceptional, great applications.',
   siteKeywords:
     'Jimboy, software engineer, back-end engineer, web developer, javascript, northeastern',
   siteUrl: 'https://distracted-einstein-e83f94.netlify.com/',
