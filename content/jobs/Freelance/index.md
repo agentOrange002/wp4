@@ -3,7 +3,7 @@ date: '2019-05-01'
 title: 'Freelance Java Developer'
 company: 'Self Employed'
 location: 'La Carlota City'
-range: 'May 2019 - Present'
+range: 'May 2019 - June 2021'
 url: 'https://#/'
 ---
 

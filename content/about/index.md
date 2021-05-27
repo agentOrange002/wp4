@@ -18,7 +18,7 @@ skills:
   - AWS EC2 RDS S3
 ---
 
-Hello! I'm Jimboy, a Freelance Java Developer based in La Carlota City, Negros Occidental who enjoys building things that live on the internet. I develop exceptional web apps that provide intuitive, user interfaces, modules-process flows with efficient and modern containerize backends.
+Hello! I'm Jimboy, a Software Engineer based in La Carlota City, Negros Occidental who enjoys building things that live on the internet. I design and develop exceptional web apps that provide intuitive, user interfaces, modules-process flows with efficient and modern containerize backends.
 
 I acquired some skills in my previous jobs. Where I work on a wide variety of interesting and meaningful projects on a daily basis.
 
