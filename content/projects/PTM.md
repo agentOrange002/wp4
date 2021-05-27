@@ -8,7 +8,7 @@ tech:
   - JPA
   - PostgreSQL
   - Jasper Reports
-  - Gradle
+  - Maven
   - Docker
   - ReactJS
   - Redux Thunk

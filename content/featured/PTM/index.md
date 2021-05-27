@@ -10,6 +10,7 @@ tech:
   - JPA
   - MySQL
   - Jasper Reports
+  - Maven
   - GraalVM Native Image
   - Docker
   - ReactJS
