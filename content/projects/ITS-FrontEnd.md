@@ -1,5 +1,5 @@
 ---
-date: '2020-05-6'
+date: '2020-05-06'
 title: 'Issue Tracking System - FrontEnd'
 github: 'https://github.com/agentOrange002/itsystem'
 external: 'https://github.com/agentOrange002/itsystem'
