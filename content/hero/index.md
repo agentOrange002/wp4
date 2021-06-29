@@ -5,4 +5,4 @@ subtitle: 'I enjoy build apps'
 contactText: 'Get In Touch'
 ---
 
-I'm a Spring Boot Developer based in La Carlota City, Negros Occidental specializing in building (and occasionally designing) exceptional, containerize applications.
+I'm a Software Engineer based in La Carlota City, Negros Occidental specializing in building (and occasionally designing) exceptional, containerize applications.
