@@ -1,6 +1,6 @@
 ---
 date: '7'
-title: 'Custom Chrome Extension PluginAPI 2.0'
+title: 'Chrome Extension PluginAPI 2.0'
 cover: './datalab.png'
 github: 'https://#/'
 external: 'https://#/'

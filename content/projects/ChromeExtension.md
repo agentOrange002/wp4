@@ -12,4 +12,4 @@ company: 'DataLaboratory'
 showInProjects: true
 ---
 
-Initially started the custom chrome extension scaffolding and partially delivered all the requirements and task provided by my Team Leader. The Plugin API Chrome Extension 2.0 is our alternative tool for managing and process the data from our webscraper. 
+It's a custom chrome extension that can be use to scrape some data in some specific web sources. It allows users, supports and administrators to manage the data and values. It also has an autofill feature that automatically scrape data from sources.
