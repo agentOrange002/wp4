@@ -9,13 +9,14 @@ skills:
   - Jasper Reports
   - JavaScript (ES6+)
   - HTML & (S)CSS
-  - ReactJs
+  - React
   - Redux-Thunk
   - Gradle
   - Maven
   - JPA & Hibernate
   - GraalVM
   - AWS EC2 RDS S3
+  - Vue
 ---
 
 Hello! I'm Jimboy, a Software Engineer based in La Carlota City, Negros Occidental who enjoys building things that live on the internet. I design and develop exceptional web apps that provide intuitive, user interfaces, modules-process flows with efficient and modern containerize backends.
