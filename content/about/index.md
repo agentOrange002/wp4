@@ -19,7 +19,7 @@ skills:
   - Vue
 ---
 
-Hello! I'm Jimboy, a Software Engineer based in La Carlota City, Negros Occidental who enjoys building things that live on the internet. I design and develop exceptional web apps that provide intuitive, user interfaces, modules-process flows with efficient and modern containerize backends.
+Hello! I'm Jimboy, a Software Engineer based in La Carlota City, Negros Occidental, Philippines. A person who enjoys building things that live on the internet. I'm into designing and developing exceptional web apps that provide intuitive user interfaces and module-process flows with efficient and modern containerized backends.
 
 I acquired some skills in my previous jobs. Where I work on a wide variety of interesting and meaningful projects on a daily basis.
 
