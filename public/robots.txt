@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://distracted-einstein-e83f94.netlify.com/sitemap-index.xml
+Host: https://distracted-einstein-e83f94.netlify.com
