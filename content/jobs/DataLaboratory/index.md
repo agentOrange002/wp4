@@ -1,6 +1,6 @@
 ---
 date: '2021-06-01'
-title: 'Junior Software Engineer'
+title: 'Software Engineer'
 company: 'Data Laboratory'
 location: 'Data Laboratory, LLC ⬝ 32 West 200 South #134 Salt Lake City, UT 84101'
 range: 'June 2021 - Present'
